@@ -1,0 +1,37 @@
+body {
+    background-color: #EAF6F6; 
+  }
+hr{
+      background-color: rgb(0, 56, 209);
+      height: 2px;
+      width: 30%;
+      border-style: dotted;
+  }
+
+h1{
+      color: #66BFBF;
+      font-family: sans-serif;
+  }
+h3{
+      font-family: sans-serif;
+      color: rgb(252, 110, 15);
+  }
+
+/* img{
+    background-color: #66BFBF;
+} */
+
+
+
+
+/****************** Class Selectors ********************/
+.table_class{
+   background-color: #cef1f1;
+}
+
+
+/****************** ID Selectors ********************/
+#table_id{
+
+    color: rgb(221, 255, 244);
+}
