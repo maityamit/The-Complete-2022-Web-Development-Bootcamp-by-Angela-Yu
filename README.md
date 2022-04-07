@@ -6,7 +6,9 @@
 
 # Lessons
 
-## 1. Introduction to HTML (1) 
+## 1. Introduction to HTML 
    1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/001/002%20personal%20site.html"> Profile Website ( 1st Ver ) </a>
 ## 2. Intermidiate to HTML 
    1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/002/001%20personal%20site.html"> Profile Website ( 2nd Ver ) </a>
+## 3. Introduction to CSS
+   1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/003/001%20personal%20site.html"> Profile Website ( 3rd Ver ) </a>
