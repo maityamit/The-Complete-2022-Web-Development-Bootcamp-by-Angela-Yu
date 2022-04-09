@@ -1,20 +1,47 @@
 body{
   margin: 0;
+  text-align: center;
+  background-color: #E4F9F5;
 }
 
 h1{
   margin-top: 0;
+  font-family: 'Grape Nuts', cursive;
+  font-size: 562%;
 }
 
+.top_cloud{
+  position: absolute;
+  margin-right: 600px;
+  top: 50px;
+
+}
+
+.bottom_cloud{
+  position: absolute;
+  margin-left: 0px;
+  bottom: 300px;
+}
 
 .top-container{
   background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
 }
 
 .pro{
   text-decoration: underline;
 }
 
+.middle-container{
+  background-color: #E4F9F5;
+
+}
+
+.bottom-container{
+  background-color: #E4F9F5;
+
+}
 
 
 
