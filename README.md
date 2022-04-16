@@ -12,5 +12,5 @@
 | <b>1. Introduction to HTML</b> | <b>2. Intermidiate to HTML</b> | <b>3. Introduction to CSS</b> | <b>4. Intermidiate to CSS</b> |
 | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/001/002%20personal%20site.html"> Profile Website </a> | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/002/001%20personal%20site.html"> Profile Website </a> | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/003/001%20personal%20site.html"> Profile Website </a> |  1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/004/001/index.html"> Box positioning </a> <br> 2. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/004/002/index.html"> Portfolio Website </a>
 | <b>5. Introduction to BootStarp</b> | <b>6. Intermidiate to BootStarp</b> | <b>7. Web Designing School</b> | <b>8. Introduction to JS</b> |
-| | | | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/008/index.html"> Simple JS Use </a> |
+| 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/005/index.html">Tin-Dog (50%) </a> | | | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/008/index.html"> Simple JS Use </a> |
 
