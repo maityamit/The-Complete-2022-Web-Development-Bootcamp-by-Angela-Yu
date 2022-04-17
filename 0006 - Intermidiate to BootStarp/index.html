@@ -131,13 +131,45 @@
 
   <section id="testimonials">
 
-    <h2>I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.</h2>
-    <img src="images/dog-img.jpg" alt="dog-profile">
-    <em>Pebbles, New York</em>
 
-    <!-- <h2 class="testimonial-text">My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.</h2>
-    <img class="testimonial-image" src="images/lady-img.jpg" alt="lady-profile">
-    <em>Beverly, Illinois</em> -->
+
+
+    <div id="testimonials-carousel" class="carousel slide" data-ride="false">
+      <div class="carousel-inner">
+  
+        <div class="carousel-item active">
+          <h2>My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.</h2>
+          <img class="testinomials-img" src="images/lady-img.jpg" alt="lady-profile">
+          <em>Beverly, Illinois</em>
+        </div>
+
+         <div class="carousel-item">
+          <h2>I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.</h2>
+          <img class="testinomials-img" src="images/dog-img.jpg" alt="dog-profile">
+          <em>Pebbles, New York</em>
+        </div>
+
+
+      </div>
+
+      <a class="carousel-control-prev" href="#testimonials-carousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+        
+      </a>
+      <a class="carousel-control-next" href="#testimonials-carousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+        
+      </a>
+    </div>
+
+
+
+
+
+
+   
+
+
 
   </section>
 
@@ -145,47 +177,64 @@
   <!-- Press -->
 
   <section id="press">
-    <img src="images/techcrunch.png" alt="tc-logo">
-    <img src="images/tnw.png" alt="tnw-logo">
-    <img src="images/bizinsider.png" alt="biz-insider-logo">
-    <img src="images/mashable.png" alt="mashable-logo">
+    <img class="press-img" src="images/techcrunch.png" alt="tc-logo">
+    <img class="press-img" src="images/tnw.png" alt="tnw-logo">
+    <img class="press-img" src="images/bizinsider.png" alt="biz-insider-logo">
+    <img class="press-img" src="images/mashable.png" alt="mashable-logo">
 
   </section>
 
 
   <!-- Pricing -->
 
-  <section id="pricing">
-
-    <h2>A Plan for Every Dog's Needs</h2>
-    <p>Simple and affordable price plans for your and your dog.</p>
-
-
-    <h3>Chihuahua</h3>
-    <h2>Free</h2>
-    <p>5 Matches Per Day</p>
-    <p>10 Messages Per Day</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
-
-
-    <h3>Labrador</h3>
-    <h2>$49 / mo</h2>
-    <p>Unlimited Matches</p>
-    <p>Unlimited Messages</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
-
-
-    <h3>Mastiff</h3>
-    <h2>$99 / mo</h2>
-    <p>Pirority Listing</p>
-    <p>Unlimited Matches</p>
-    <p>Unlimited Messages</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
-
-  </section>
+  
+  <div class="card-deck mb-3 lg-3 text-center">
+    <div class="card mb-4 lg-4 box-shadow">
+      <div class="card-header">
+        <h4 class="my-0 font-weight-normal">Free</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>10 users included</li>
+          <li>2 GB of storage</li>
+          <li>Email support</li>
+          <li>Help center access</li>
+        </ul>
+        <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+      </div>
+    </div>
+    <div class="card mb-4 lg-4 box-shadow">
+      <div class="card-header">
+        <h4 class="my-0 font-weight-normal">Pro</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>20 users included</li>
+          <li>10 GB of storage</li>
+          <li>Priority email support</li>
+          <li>Help center access</li>
+        </ul>
+        <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
+      </div>
+    </div>
+    <div class="card mb-4 lg-4  box-shadow">
+      <div class="card-header">
+        <h4 class="my-0 font-weight-normal">Enterprise</h4>
+      </div>
+      <div class="card-body">
+        <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
+        <ul class="list-unstyled mt-3 mb-4">
+          <li>30 users included</li>
+          <li>15 GB of storage</li>
+          <li>Phone and email support</li>
+          <li>Help center access</li>
+        </ul>
+        <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
+      </div>
+    </div>
+  </div>
 
 
   <!-- Call to Action -->
@@ -193,8 +242,8 @@
   <section id="cta">
 
     <h3>Find the True Love of Your Dog's Life Today.</h3>
-    <button type="button">Download</button>
-    <button type="button">Download</button>
+    <button type="button" class="btn btn-success">Download</button>
+    <button type="button" class="btn btn-danger">Download</button>
 
   </section>
 
