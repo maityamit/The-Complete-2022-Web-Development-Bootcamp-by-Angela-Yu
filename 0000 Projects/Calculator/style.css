@@ -1,0 +1,75 @@
+.main_div{
+    border: 5px ;
+    text-align: center;
+    margin-top: 20px;
+}
+
+body{
+    background-color: #0093E9;
+    height: 700px;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+h1{
+    color: white;
+}
+
+
+.calcultor_frame{
+    text-align: center;
+    width: 370px;
+    height: 400px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 32px;
+    background: linear-gradient(145deg, #2196F3, #2196F3);
+    box-shadow:  5px 5px 14px #316659,
+             -5px -5px 14px #c3ffff;
+}
+
+
+
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 80px 80px 80px 80px;
+  gap: 10px;
+  padding: 10px;
+}
+
+
+.item{
+    text-align: center;
+    vertical-align: middle;
+    width: 80px;
+    height: 50px;
+    margin: 1px;
+    cursor: pointer;
+    border-radius: 21px;
+    background: #fea9a9;
+    align-items: center;
+}
+
+
+input[type=text] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-top: 20px;
+    text-align: right; 
+    border: none;
+    border-radius: 21px;
+    background: #f4fea9;
+    box-sizing: border-box;
+  }
+
+
+  .fotter{
+      margin-top: 80px;
+  }
+
+  .icons{
+      margin: 10px;
+  }
