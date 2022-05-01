@@ -22,3 +22,21 @@
 | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/0000%20Projects/Calculator/index.html"> <b>Basics Calculator</b> </a> | <b> </b> |
 | <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0000%20Projects/Basic%20Calculator/demo.png" alt="drawing" width="400"/> | | 
 
+
+
+
+
+
+h1 align=center> About Myself  🤵 </h1>
+
+  <p align="center">
+  <a href="https://github.com/maityamit"><img src="https://avatars.githubusercontent.com/u/74618071?v=4" width="11%" /></a>
+
+  <p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/maityamit/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="maityamit308@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/amit_maity_2003/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+  
+  <br>
+
