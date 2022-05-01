@@ -24,10 +24,12 @@
 
 
 
+<br>
+<br>
 
 
 
-h1 align=center> About Myself  🤵 </h1>
+<h1 align=center> About Myself  🤵 </h1>
 
   <p align="center">
   <a href="https://github.com/maityamit"><img src="https://avatars.githubusercontent.com/u/74618071?v=4" width="11%" /></a>
