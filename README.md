@@ -20,5 +20,5 @@
 |||
 |:---------------------------------:|:---------------------------------:|
 | 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/0000%20Projects/Calculator/index.html"> <b>Basics Calculator</b> </a> | <b> </b> |
-| <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0001%20-%20Introduction%20to%20HTML/Images%20for%20Git/course_banner.png" alt="drawing" width="500"/> | | 
+| <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0000%20Projects/Basic%20Calculator/demo.png" alt="drawing" width="450"/> | | 
 
