@@ -19,9 +19,9 @@
 # 📂Projects
 |||
 |:---------------------------------:|:---------------------------------:|
-| 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/0000%20Projects/Calculator/index.html"> <b>Basics Calculator</b> </a> | <b> </b> |
+| 1. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/0000%20Projects/Calculator/index.html"> <b>Basics Calculator</b> </a> | 2. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/008/BMI%20Calculater/index.html"> <b>BMI Calculator</b> </a> |
 | <img src="https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu/blob/master/0000%20Projects/Basic%20Calculator/demo.png" alt="drawing" width="400"/> | | 
-
+| 3. <a href="https://maityamit.github.io/freinds.github.io/Web-Dev-Angela-Yu/0000%20Projects/Random%20Ludo%20Dice%20thrown/index.html"> <b>Roll Dice Ludo</b> </a> |  |
 
 
 <br>
